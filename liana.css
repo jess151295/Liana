@@ -1,0 +1,21 @@
+body{
+	background-color: #FFF0F5;
+	font-family: vivaldi, cursive;
+	font-size: 25px;
+	color: #EE82EE;
+	text-align: center;
+}
+
+h1{
+	font-size: 45px;
+}
+
+div p:last-child{
+	text-align: right;
+}
+
+#coeur{
+	width: 10%;
+	float: left;
+	
+}
